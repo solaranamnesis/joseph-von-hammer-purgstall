@@ -2,6 +2,13 @@
 
 Public Domain works by Joseph von Hammer-Purgstall (1774-1856).
 
+## Mithriaca Ou Les Mithriaques.
+
+English - Plain Text  
+English - PDF  
+French - Plain Text  
+French - PDF | Biolinum | Kerkis | Atkinson | Fraktur | Schwabacher | Custom01  
+
 ## Narrative of travels in Europe, Asia, and Africa, in the seventeenth century.
 
 German - Plain Text  
